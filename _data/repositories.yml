@@ -1,15 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
+- name: "FSPmix"
+  description: "R package for anchored Bayesian mixture modeling in spatial proteomics."
+  url: "https://github.com/ZiyueZHENG/FSPmix"
 
-repo_description_lines_max: 2
+- name: "my-academic-website"
+  description: "Personal academic website built with al-folio."
+  url: "https://github.com/ZiyueZHENG/my-academic-website"
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
-  - ZiyueZHENG/FSPmix

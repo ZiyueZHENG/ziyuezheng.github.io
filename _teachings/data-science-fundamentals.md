@@ -1,36 +1,36 @@
 ---
 layout: course
-title: STAT 131 Probability
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+title: STAT 131 Intro to Probability
+description: This course covers the foundational aspects of Probability, including combinatorial analysis, axioms of probability and independence, random variables (discrete and continuous), joint probability distributions, properties of expectation, Central Limit Theorem, Law of Large Numbers, Markov chains.
+instructor: 
+year: 2025
+term: Winter
+location: 
+time: 
+course_id: 
 schedule:
   - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
+    date: 
+    topic: Data Cleaning and Preprocessing
+    description: Techniques for handling missing values, outliers, and data transformation.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
+      - name: Coding Lab
+        url: https://github.com/
+
+  - week: 2
+    date: 
+    topic: Data Cleaning and Preprocessing
+    description: Techniques for handling missing values, outliers, and data transformation.
+    materials:
+      - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
+      - name: Coding Lab
+        url: https://github.com/
 
   - week: 3
-    date: Feb 19
+    date: 
     topic: Data Cleaning and Preprocessing
     description: Techniques for handling missing values, outliers, and data transformation.
     materials:
@@ -40,19 +40,19 @@ schedule:
         url: https://github.com/
 
   - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
+    date: 
+    topic: 
+    description: 
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
+      - name: Review Materials
         url: /assets/pdf/example_pdf.pdf
 
   - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
+    date: 
+    topic: 
+    description: 
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -60,16 +60,17 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    date: 
+    topic: 
+    description: 
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
+      - name: Review Materials
         url: /assets/pdf/example_pdf.pdf
 ---
 
+<!--
 ## Course Overview
 
 This course provides a comprehensive introduction to data science principles and practices. Students will:
@@ -95,3 +96,4 @@ This course provides a comprehensive introduction to data science principles and
 - Assignments: 50%
 - Project: 40%
 - Participation: 10%
+-->
