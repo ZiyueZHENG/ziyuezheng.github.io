@@ -4,7 +4,7 @@ permalink: /software/
 title: software
 description: ZZY software
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 {% if site.data.repositories.github_users %}
