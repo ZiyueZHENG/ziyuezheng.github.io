@@ -13,7 +13,9 @@ nav_order: 2
 
 ## Ongoing work
 {% for p in site.data.ongoing %}
-- **[{{ p.title }}]({{ p.link }})** — {{ p.desc }}
+- {{ p.title }} 
+    
+    — {{ p.desc }}
 {% endfor %}
 
 ## Publications
