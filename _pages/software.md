@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+{% assign repos = site.data.repositories %}
 
 {% for r in repos %}
 <div class="card mb-3">
