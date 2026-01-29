@@ -1,8 +1,10 @@
 - name: "FSPmix"
   description: "R package for anchored Bayesian mixture modeling in spatial proteomics."
   url: "https://github.com/ZiyueZHENG/FSPmix"
+  icons: ["github", "r"]
 
 - name: "my-academic-website"
   description: "Personal academic website built with al-folio."
   url: "https://github.com/ZiyueZHENG/my-academic-website"
+  icons: ["github", "r"]
 
