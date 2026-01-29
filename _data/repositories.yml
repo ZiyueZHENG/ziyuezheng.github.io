@@ -1,8 +1,8 @@
 - name: "FSPmix"
-  description: "Semi-supervised functional clustering model for spatial proteomics data."
+  description: "R package for anchored Bayesian mixture modeling in spatial proteomics."
   url: "https://github.com/ZiyueZHENG/FSPmix"
 
-- name: "Flowmix"
-  description: "Sparse mixture of regressions for flow cytometry data."
+- name: "my-academic-website"
+  description: "Personal academic website built with al-folio."
   url: "https://github.com/ZiyueZHENG/my-academic-website"
 

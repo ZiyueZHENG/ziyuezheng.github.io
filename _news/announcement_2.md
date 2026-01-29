@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I give a talk at [QB3-Berkeley](https://qb3.berkeley.edu/) 2025 Bioscience Meeting!
+A give a talk at [QB3-Berkeley](https://qb3.berkeley.edu/) 2025 Bioscience Meeting!

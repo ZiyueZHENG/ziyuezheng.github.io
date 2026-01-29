@@ -11,11 +11,6 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## Ongoing work
-{% for p in site.data.research.ongoing %}
-- **[{{ p.title }}]({{ p.link }})** — {{ p.desc }}
-{% endfor %}
-
 
 ## Publications
 {% include bib_search.liquid %}
@@ -27,5 +22,5 @@ nav_order: 2
 </div>
 
 
-
+## Ongoing work
 
