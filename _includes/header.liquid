@@ -108,7 +108,7 @@
                     {%- assign url = p.url -%}
                   {%- endif %}
                   {%- if p.permalink == '/cv/' or p.url == '/cv/' -%}
-                    {%- assign url = p.cv_pdf -%}
+                    {%- assign url = '/assets/pdf/example_pdf.pdf' -%}
                   {%- endif -%}
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {{- p.title }}
