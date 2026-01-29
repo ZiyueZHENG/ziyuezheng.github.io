@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Course materials, notes, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -55,9 +55,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-give-a-talk-at-qb3-berkeley-2025-bioscience-meeting",
           title: 'A give a talk at QB3-Berkeley 2025 Bioscience Meeting!',
           description: "",
-          section: "News",},{id: "teachings-stat-131-probability",
-          title: 'STAT 131 Probability',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "News",},{id: "teachings-stat-131-intro-to-probability",
+          title: 'STAT 131 Intro to Probability',
+          description: "This course covers the foundational aspects of Probability, including combinatorial analysis, axioms of probability and independence, random variables (discrete and continuous), joint probability distributions, properties of expectation, Central Limit Theorem, Law of Large Numbers, Markov chains.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
