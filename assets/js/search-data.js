@@ -57,14 +57,29 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "teachings-stat-131-intro-to-probability",
           title: 'STAT 131 Intro to Probability',
-          description: "This course covers the foundational aspects of Probability, including combinatorial analysis, axioms of probability and independence, random variables (discrete and continuous), joint probability distributions, properties of expectation, Central Limit Theorem, Law of Large Numbers, Markov chains.",
+          description: "Introduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
+              window.location.href = "/teachings/stat131_25fall/";
+            },},{id: "teachings-stat-131-intro-to-probability",
+          title: 'STAT 131 Intro to Probability',
+          description: "Introduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/stat131_25spring/";
+            },},{id: "teachings-stat-131-intro-to-probability",
+          title: 'STAT 131 Intro to Probability',
+          description: "Introduction to statistical methods/reasoning, including descriptive methods, data-gathering (experimental design and sample surveys), probability, interval estimation, significance tests, one- and two-sample problems, categorical data analysis, correlation and regression. Emphasis on applications to the natural and social sciences.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/stat131_25winter/";
+            },},{id: "teachings-stat-5-statistics",
+          title: 'STAT 5 Statistics',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/stat5_24fall/";
+            },},{id: "teachings-stat-5-statistics",
+          title: 'STAT 5 Statistics',
+          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/stat5_24spring/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
