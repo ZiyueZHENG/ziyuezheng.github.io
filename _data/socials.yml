@@ -8,11 +8,13 @@ email: ziyuezheng@ucsc.edu # your email address
 scholar_userid: vxheG7EAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-LinkedIn: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://ziyuezheng.github.io/assets/img/linkedin.jpg # can be png, svg, jpg
-  title: LinkedIn
-  url: https://linkedin.com/in/ziyue-zheng/
-Github: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://ziyuezheng.github.io/assets/img/github_logo_icon_229278.png # can be png, svg, jpg
-  title: LinkedIn
-  url: https://https://github.com/ZiyueZHENG/
+#LinkedIn: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#  logo: https://ziyuezheng.github.io/assets/img/linkedin.jpg # can be png, svg, jpg
+#  title: LinkedIn
+#  url: https://linkedin.com/in/ziyue-zheng/
+linkedin_username: ziyue-zheng
+github_username: ZiyueZHENG
+#Github: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#  logo: https://ziyuezheng.github.io/assets/img/github_logo_icon_229278.png # can be png, svg, jpg
+#  title: LinkedIn
+#  url: https://https://github.com/ZiyueZHENG/

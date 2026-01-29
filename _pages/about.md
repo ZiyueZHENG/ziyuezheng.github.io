@@ -25,7 +25,6 @@ I am currently a third-year PhD student in the [Department of Statistics](https:
 
 My research interests include semi-supervised learning, uncertainty quantification, functional data analysis, and interpretable statistical/machine learning. I am currently working on oceanographic data analysis.
 
-[Github](https://github.com/ZiyueZHENG) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=vxheG7EAAAAJ) | [Email](ziyuezheng@ucsc.edu) | [CV](https://ziyuezheng.github.io/assets/pdf/example_pdf.pdf) 
 
 <div class="social">
   <div class="contact-icons">{% social_links %}</div>
