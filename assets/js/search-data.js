@@ -50,10 +50,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-give-a-talk-at-cbiomes-2025-annual-meeting",
-          title: 'I give a talk at CBIOMES 2025 annual meeting.',
+          title: 'I give a talk at CBIOMES 2025 annual meeting!',
           description: "",
-          section: "News",},{id: "news-a-give-a-talk-at-qb3-berkeley-2025-bioscience-meeting",
-          title: 'A give a talk at QB3-Berkeley 2025 Bioscience Meeting!',
+          section: "News",},{id: "news-i-give-a-talk-at-qb3-berkeley-2025-bioscience-meeting",
+          title: 'I give a talk at QB3-Berkeley 2025 Bioscience Meeting!',
           description: "",
           section: "News",},{id: "teachings-stat-131-intro-to-probability",
           title: 'STAT 131 Intro to Probability',
