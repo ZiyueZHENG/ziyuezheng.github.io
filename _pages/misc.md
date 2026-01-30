@@ -49,6 +49,10 @@ calendar: true
     <figure class="misc-shot">
       <img src="{{ '/assets/img/yellow.jpg' | relative_url }}" alt="Photo 8">
     </figure>
+
+    <figure class="misc-shot">
+      <img src="{{ '/assets/img/fish2.jpg' | relative_url }}" alt="Photo 9">
+    </figure>
   </div>
 
 
