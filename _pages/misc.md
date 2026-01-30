@@ -27,7 +27,7 @@ calendar: true
     </figure>
 
     <figure class="misc-shot">
-      <img src="{{ '/assets/img/fish2.jpg' | relative_url }}" alt="Photo 3">
+      <img src="{{ '/assets/img/sea_slug.jpg' | relative_url }}" alt="Photo 3">
     </figure>
 
     <figure class="misc-shot">
