@@ -1,7 +1,24 @@
 - title: "Debiased Inference for Semi-Supervised MoE"
+  authors: "Ziyue Zheng, ..."
+  venue: "In progress"
+  year: 2026
   desc: "Methods for semi-supervised mixture-of-experts in flow cytometry."
+  image: "/assets/img/ongoing/1.png"
+  links:
+    - name: "Project"
+      url: "/projects/moe/"
+    - name: "Code"
+      url: "https://github.com/..."
 
 
 - title: "Debiased Inference for Semi-Supervised MoE"
+  authors: "Ziyue Zheng, ..."
+  venue: "In progress"
+  year: 2026
   desc: "Methods for semi-supervised mixture-of-experts in flow cytometry."
-
+  image: "/assets/img/ongoing/2.png"
+  links:
+    - name: "Project"
+      url: "/projects/moe/"
+    - name: "Code"
+      url: "https://github.com/..."

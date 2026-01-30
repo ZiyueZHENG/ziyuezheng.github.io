@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I give a talk at [CBIOMES](https://cbiomes.org/) 2025 annual meeting.
+I give a talk at [CBIOMES](https://cbiomes.org/) 2025 annual meeting!
