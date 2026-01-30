@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: ZZY research
+title: Research
+description: 
 nav: true
 nav_order: 2
 ---
@@ -16,12 +16,6 @@ nav_order: 2
 <div class="publications">
 {% for p in site.data.ongoing %}
   <div class="pub-entry">
-    {% if p.image %}
-      <div class="teaser">
-        <img src="{{ p.image | relative_url }}" alt="{{ p.title }}">
-      </div>
-    {% endif %}
-
     <div class="pub-details">
       <div class="pub-title">{{ p.title }}</div>
 
@@ -48,10 +42,11 @@ nav_order: 2
       {% endif %}
     </div>
   </div>
+  <div style="height: 10px;"></div>
 {% endfor %}
 </div>
 
-<div style="height: 20px;"></div>
+<div style="height: 30px;"></div>
 
 ## Publications
 {% include bib_search.liquid %}

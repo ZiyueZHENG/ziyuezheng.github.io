@@ -1,10 +1,14 @@
-- name: "FSPmix"
-  description: "R package for anchored Bayesian mixture modeling in spatial proteomics."
+- name: "FSPmix package"
+  description: "A semi-supervised functional clustering model for spatial proteomics data written in R."
   url: "https://github.com/ZiyueZHENG/FSPmix"
   icons: ["github", "r"]
 
-- name: "my-academic-website"
-  description: "Personal academic website built with al-folio."
-  url: "https://github.com/ZiyueZHENG/my-academic-website"
+- name: "Flowmix package"
+  description: "A sparse mixture of multivariate regressions model for flow cytometry data written in R."
+  url: "https://github.com/sangwon-hyun/flowmix"
   icons: ["github", "r"]
 
+- name: "Grump project"
+  description: "Statistical analysis and methodology development for Global rRNA Universal Metabarcoding of Plankton (GRUMP) data."
+  url: "https://github.com/Riddhiman1729/Grump_Project"
+  icons: ["github", "r"]

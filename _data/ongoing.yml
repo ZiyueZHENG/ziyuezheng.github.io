@@ -1,9 +1,9 @@
 - title: "Debiased Inference for semi-supervised mixture-of-experts model of flow cytometry data"
-  authors: "Ziyue Zheng, ..."
+  authors: 
   venue: "In progress"
   year: 2026
   desc: "Methods for semi-supervised mixture-of-experts in flow cytometry."
-  image: "/assets/img/ongoing/1.jpg"
+  image: 
   links:
     - name: "Project"
       url: "/projects/moe/"
@@ -12,11 +12,11 @@
 
 
 - title: "Model based relative abundance clustering on Global rRNA Universal Metabarcoding of Plankton database (GRUMP)"
-  authors: "Ziyue Zheng, ..."
+  authors: 
   venue: "In progress"
   year: 2026
   desc: "Methods for semi-supervised mixture-of-experts in flow cytometry."
-  image: "/assets/img/ongoing/2.jpg"
+  image: 
   links:
     - name: "Project"
       url: "/projects/moe/"

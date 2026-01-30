@@ -21,10 +21,13 @@ announcements:
 
 ---
 
-I am currently a third-year PhD student in the [Department of Statistics](https://engineering.ucsc.edu/departments/statistics/) at the University of California, Santa Cruz, advised by [Sangwon Hyun](https://sangwon-hyun.org). Before joining UCSC, I received my Master's degree in Data Science from University of Wisconsin, Madison and my Bachelor's degree in Statistics from Zhongnan University of Economics and Law.
+I am currently a third-year PhD student in the [Department of Statistics](https://engineering.ucsc.edu/departments/statistics/) at the University of California, Santa Cruz, advised by [Sangwon Hyun](https://sangwon-hyun.org). Before joining UCSC, I earned my M.S. in Data Science from the University of Wisconsin–Madison and my B.S. in Statistics from Zhongnan University of Economics and Law.
 
-My research interests include semi-supervised learning, uncertainty quantification, functional data analysis, and interpretable statistical/machine learning. I am currently working on semi-supervised learning on oceanographic data analysis.  
+My research interests include semi-supervised learning, uncertainty quantification, functional data analysis, and interpretable statistical and machine learning. More broadly, I am interested in developing principled statistical methods that are both theoretically grounded and practically useful for solving scientific problems. My current work focuses on modeling and inference for real-world data, with applications in oceanography and biological sciences. I enjoy working at the intersection of methodology and applications, especially when collaboration with domain scientists helps shape the questions we ask and the tools we build.
 
+Thanks for stopping by—feel free to connect anytime!
+
+<div style="height: 20px;"></div>
 
 <div class="social">
   <div class="contact-icons">{% social_links %}</div>

@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /software/
-title: software
-description: ZZY software
+title: Software
+description: 
 nav: true
 nav_order: 3
 ---
