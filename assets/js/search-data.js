@@ -10,15 +10,15 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-research",
-          title: "research",
-          description: "ZZY research",
+          title: "Research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-software",
-          title: "software",
-          description: "ZZY software",
+          title: "Software",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/software/";
