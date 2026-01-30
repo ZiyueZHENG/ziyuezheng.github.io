@@ -51,6 +51,8 @@ nav_order: 2
 {% endfor %}
 </div>
 
+<div style="height: 20px;"></div>
+
 ## Publications
 {% include bib_search.liquid %}
 

@@ -43,7 +43,7 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
+      <h2 class = "firstpagesecondtitle">
         <a >News</a>
       </h2>
       {% include news.liquid limit=true %}
@@ -51,7 +51,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
+      <h2 class = "firstpagesecondtitle">
         Selected publications (<a href="{{ '/research/' | relative_url }}" style="color: inherit">full list</a>)
       </h2>
       {% include selected_papers.liquid %}
