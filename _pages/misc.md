@@ -31,23 +31,23 @@ calendar: true
     </figure>
 
     <figure class="misc-shot">
-      <img src="{{ '/assets/img/manta.jpg' | relative_url }}" alt="Photo 2">
+      <img src="{{ '/assets/img/manta.jpg' | relative_url }}" alt="Photo 4">
     </figure>
 
     <figure class="misc-shot">
-      <img src="{{ '/assets/img/sealion.jpg' | relative_url }}" alt="Photo 3">
+      <img src="{{ '/assets/img/sealion.jpg' | relative_url }}" alt="Photo 5">
     </figure>
 
     <figure class="misc-shot">
-      <img src="{{ '/assets/img/sealion2.jpg' | relative_url }}" alt="Photo 3">
+      <img src="{{ '/assets/img/sealion2.jpg' | relative_url }}" alt="Photo 6">
     </figure>
 
     <figure class="misc-shot">
-      <img src="{{ '/assets/img/wreck.jpg' | relative_url }}" alt="Photo 3">
+      <img src="{{ '/assets/img/wreck.jpg' | relative_url }}" alt="Photo 7">
     </figure>
 
     <figure class="misc-shot">
-      <img src="{{ '/assets/img/yellow.jpg' | relative_url }}" alt="Photo 3">
+      <img src="{{ '/assets/img/yellow.jpg' | relative_url }}" alt="Photo 8">
     </figure>
   </div>
 
